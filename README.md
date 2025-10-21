@@ -1,4 +1,4 @@
-# Solape Openbook Explorer 🛠️🦍
+# Solape Explorer - Openbook  🛠️🦍
 
 A explorer dashboard to search for various markets deployed on a [Openbook DEX](https://github.com/openbook-dex/program) program.
 
